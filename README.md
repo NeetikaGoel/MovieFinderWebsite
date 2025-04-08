@@ -45,7 +45,9 @@ To use Movie Finder:
 
 ## Screenshots
 
-_Insert screenshots or animated GIFs showcasing the Movie Finder web application._
+![image](https://github.com/user-attachments/assets/49d7bfbf-ceac-4c3c-8834-28f9405ca404)
+![image](https://github.com/user-attachments/assets/684d99fa-4d1c-4615-afb0-6774d5dcbe83)
+![image](https://github.com/user-attachments/assets/d2cdfe14-25c0-4014-8a43-042ea291cb29)
 
 ## Contributing
 
