@@ -45,6 +45,7 @@ To use Movie Finder:
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/6d4e5483-c6c4-40c2-a372-5da48e0bb85d)
 ![image](https://github.com/user-attachments/assets/f69e2c1f-01ad-44d4-bfe1-a8635704eafd)
 
 
