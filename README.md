@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c29f7a90-1e4e-4a88-bbc8-0168fece4280)# MovieFinderWebsite
+# MovieFinderWebsite
 
 ## Brief Summary:
 Designed a dynamic movie finder webpage with HTML, CSS, and JavaScript, featuring user-friendly movie exploration and responsive design, highlighting web development skills and user-centric design principles.
@@ -46,6 +46,7 @@ To use Movie Finder:
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/6d4e5483-c6c4-40c2-a372-5da48e0bb85d)
+![image](https://github.com/user-attachments/assets/c29f7a90-1e4e-4a88-bbc8-0168fece4280)
 ![image](https://github.com/user-attachments/assets/f69e2c1f-01ad-44d4-bfe1-a8635704eafd)
 
 
